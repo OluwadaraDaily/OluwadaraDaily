@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Oluwadara Oloye
-### I am a software engineer
+I am a software engineer
 
 
 ### Github Stats
