@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Reverse Image Search Engine using ![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green}) and ![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+- 🔭 I’m currently working on a Reverse Image Search Engine using <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> and <img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />
 - 🌱 I’m currently learning ![image]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white}) ![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
 - 👯 I’m looking to collaborate on any interesting or open source projects
 - 📫 How to reach me:
