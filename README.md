@@ -1,7 +1,10 @@
 ### Hi there 👋
+### My name is Oluwadara Oloye
+### I am a software engineer
 
 
-Here are some ideas to get you started:
+### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=OluwadaraDaily" />
 
 - 🔭 I’m currently working on a Reverse Image Search Engine using <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> and <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
