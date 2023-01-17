@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Oluwadara Oloye 
 - Software engineer
 - Passionate about problem solving
