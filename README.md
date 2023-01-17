@@ -2,6 +2,12 @@
 - Software engineer
 - Passionate about problem solving
 - Getting 1% better everyday
+- Continuous learner
+
+## Technology Stack
+- Programming Languages: Javascript, Typescript and Python
+- Databases: PostgreSQL, MySQL
+- Infrastructure: Docker
 
 
 ## Github Stats
