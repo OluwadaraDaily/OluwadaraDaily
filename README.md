@@ -6,8 +6,10 @@
 
 ## Technology Stack
 - Programming Languages: Javascript, Typescript and Python
+- Frameworks: VueJS, ReactJS, AdonisJS, Quasar, Nuxt, Django, Flask.
 - Databases: PostgreSQL, MySQL
 - Infrastructure: Docker
+- Other: GraphQL, Apollo Client
 
 
 ## Github Stats
